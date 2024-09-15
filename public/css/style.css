@@ -64,10 +64,9 @@ body {
 
 .row {
     display : flex;
-    justify-content: space-evenly;
 }
 
-.card {
+.listingCard {
     border : none !important;
     margin-bottom: 2rem;
 }
